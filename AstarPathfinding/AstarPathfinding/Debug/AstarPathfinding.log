@@ -1,0 +1,3 @@
+﻿  AstarPathfinding.cpp
+g:\github\a-path-finding\astarpathfinding\astarpathfinding\astarpathfinding.cpp(138): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  AstarPathfinding.vcxproj -> G:\Github\A-Path-finding\AstarPathfinding\Debug\AstarPathfinding.exe

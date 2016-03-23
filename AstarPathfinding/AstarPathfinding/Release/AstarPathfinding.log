@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  AstarPathfinding.cpp
+AstarPathfinding.cpp(115): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  All 234 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  AstarPathfinding.vcxproj -> G:\Github\A-Path-finding\AstarPathfinding\Release\AstarPathfinding.exe
